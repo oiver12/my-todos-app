@@ -1,0 +1,17 @@
+.container {
+  height: 100vh;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  margin-top: 50px;
+}
+
+.error-message {
+  color: red;
+}
+
+.info-message {
+  margin-top: 10px;
+  color: gray;
+  font-style: italic;
+}

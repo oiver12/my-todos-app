@@ -1,0 +1,37 @@
+.signin-page {
+  height: 100vh;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  background-color: #f0f0f0;
+}
+
+.signin-container {
+  background-color: #fff;
+  padding: 40px;
+  border-radius: 8px;
+  box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+}
+
+.signin-content {
+  text-align: center;
+}
+
+.signin-button {
+  background-color: #4285f4;
+  color: white;
+  border: none;
+  padding: 10px 20px;
+  font-size: 16px;
+  border-radius: 4px;
+  cursor: pointer;
+}
+
+.signin-button:hover {
+  background-color: #357ae8;
+}
+
+.step-guide {
+  text-align: left;
+  margin-top: 40px;
+}
